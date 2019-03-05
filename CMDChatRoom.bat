@@ -3,6 +3,7 @@ REM CMD CHAT
 REM (dededated WREM) By Hexxend
 REM 10/15/2016
 REM edited By XANA3790
+REM Released under the GPL-V2
 
 @cd
 color 0a
